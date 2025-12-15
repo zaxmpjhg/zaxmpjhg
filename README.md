@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello There, zaxm Is Here
+<p align='center'>
+   <img src="https://files.catbox.moe/rhm9rt.webp" width="250"/>
+</p>
+<p align="center">
+</p>
 
-<!--
-**zaxmpjhg/zaxmpjhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## All About Me
+```json
+{
+  "name": "azam",
+  "BirtDay": "25-12-2005",
+  "Age": "19 Y'Old",
+  "Hobbies": [
+    "ngodink",
+    "nyiksa ai",
+    "liat gpt suka sangek🥰"
+  ],
+  "Skills": [
+    "StacksAndExperience": {
+      "JavaScript": "60%",
+      "golang": "10%",
+      "Python": "40%"
+      "java": "1%"
+    },
+    "ngawe ai"
+  ]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
