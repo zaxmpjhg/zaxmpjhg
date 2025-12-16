@@ -24,8 +24,8 @@
       "golang": "10%",
       "Python": "40%",
       "java": "1%",
-      "lammer": 100%",
-      "copypastek": 100%"
+      "nyiksa ai": 99%",
+      "copypastek": 99%"
     },
     "ngawe ai"
   ]
