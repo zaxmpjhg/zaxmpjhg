@@ -22,8 +22,10 @@
     "StacksAndExperience": {
       "JavaScript": "60%",
       "golang": "10%",
-      "Python": "40%"
-      "java": "1%"
+      "Python": "40%",
+      "java": "1%",
+      "lammer": 100%",
+      "copypastek": 100%"
     },
     "ngawe ai"
   ]
